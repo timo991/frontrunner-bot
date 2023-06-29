@@ -11,6 +11,7 @@
 - Supported networks: BSC
 - Active contracts: 3
 - Notifications: no
+
 Actual free version in release section.
 
 ## Professional version
@@ -24,15 +25,10 @@ For more information contact with me.
 3. Make shure that firewall does not blocks any connections.
 
 ## Usage
-1. Open 
-Once the Mempool Monitoring Bot is up and running, it will start monitoring the mempool of the specified blockchain network. Here are some examples of how to use the bot:
+1. Open `config.json`. Edit network PRCs and private key for active account.
+2. Launch software. Select AMM you need, set up contracts for monitoring.
+3. In transaction section set up gas fees and profit percentage.
+4. Start monitoring mempool and wait for profit.
 
-1. **Configuring Notifications**: Use the bot's interface or configuration file to set up notifications based on specific conditions, such as high transaction fees or low pending transactions.
-
-2. **Monitoring Mempool Data**: Access the bot's interface or API endpoints to view real-time mempool data, including pending transactions, gas prices, and other relevant metrics.
-
-For detailed usage instructions, please refer to the [documentation](docs/README.md).
-
-
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
+All detailed instuctions, support and tips in professional version only :).
 
