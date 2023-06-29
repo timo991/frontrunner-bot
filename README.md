@@ -16,7 +16,7 @@ Actual free version in release section.
 ## Professional version
 No limits!
 No beta versions! 
-For more information contact with (me)[timo991@proton.me].
+For more information contact with (me)[mailto:timo991@proton.me].
 
 ## Installation
 
