@@ -7,30 +7,19 @@ A frontrunning bot specialized in automated market making (AMM) takes advantage 
 - **Transaction Analysis**: The bot analyzes pending transactions in the mempool, providing insights into transaction fees, gas prices, and other relevant metrics.
 - **Profit transaction**: The bot performs transactions for most relevant pairs with low liquidity.
 
-## Pricing
+## Free version
+- Supported networks: BSC
+- Active contracts: 3
+- Notifications: no
+Actual free version in release section.
+
+## Professional version
+No limits!
+No beta versions! 
+For more information contact with (me)[timo991@proton.me].
+
 ## Installation
 
-To install and run the Mempool Monitoring Bot, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/[your-username]/[your-repo].git
-   ```
-
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Configure the bot by editing the `config.yaml` file. Specify the blockchain network to monitor, notification settings, and any other desired configurations.
-
-4. Run the bot:
-
-   ```bash
-   python main.py
-   ```
 
 ## Usage
 
@@ -45,10 +34,3 @@ For detailed usage instructions, please refer to the [documentation](docs/README
 
 Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
 
-## License
-
-The Mempool Monitoring Bot is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-[your-email@example.com]
