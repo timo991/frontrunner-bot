@@ -9,6 +9,11 @@
 - **Transaction Analysis**: The bot analyzes pending transactions in the mempool, providing insights into transaction fees, gas prices, and other relevant metrics.
 - **Profit transaction**: The bot performs transactions for most relevant pairs with low liquidity.
 
+### Requirements
+- Windows 7 or older
+- .NET framework 4.7.2 runtime
+- RPCs for each network (ex. Infura)
+
 ### Public version
 - Supported networks: BSC
 - Active contracts: 3
