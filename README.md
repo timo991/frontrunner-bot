@@ -22,8 +22,6 @@
   <img src="https://github.com/timo991/ethrunner/blob/main/ethrunner.png?raw=true"/>
 </p>
 
-![alt text](https://github.com/timo991/ethrunner/blob/main/ethrunner.png?raw=true)
-
 ### What is frontrunning bot?
   A frontrunning bot specialized in automated market making (AMM) takes advantage of price fluctuations observed in decentralized exchanges (DEXs) that utilize the AMM model, such as Uniswap or PancakeSwap. By leveraging advanced algorithms, this bot actively monitors the network for impending trades and assesses the potential market impact of these trades. 
   
