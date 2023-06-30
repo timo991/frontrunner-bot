@@ -1,4 +1,4 @@
-### Ethrunner v0.4.1
+### Ethrunner
 
 <p align="center">
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
