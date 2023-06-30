@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/timo991/ethrunner/blob/main/ethrunner.png?raw=true"/>
+</p>
+
 ![alt text](https://github.com/timo991/ethrunner/blob/main/ethrunner.png?raw=true)
 
 ### What is frontrunning bot?
