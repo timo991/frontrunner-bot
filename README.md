@@ -13,8 +13,8 @@
   <a href="https://github.com/frinyvonnick/gitmoji-changelog">
     <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
   </a>
-  <a href="https://twitter.com/timo991">
-    <img alt="Twitter: hashlipsnft" src="https://img.shields.io/twitter/follow/hashlipsnft.svg?style=social" target="_blank" />
+  <a href="https://twitter.com/ethrunner">
+    <img alt="Twitter: hashlipsnft" src="https://img.shields.io/twitter/follow/ethrunner.svg?style=social" target="_blank" />
   </a>
 </p>
 
