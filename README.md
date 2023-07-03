@@ -28,7 +28,7 @@
   It strategically positions itself to capitalize on the price changes resulting from the original trades by executing its own trades before the initial orders are processed. The bot achieves this by analyzing the mempool, which comprises unconfirmed transactions awaiting inclusion in the blockchain. Through careful examination of the mempool and price movements, the bot predicts the price shifts that will occur upon trade execution, enabling it to execute profitable trades. AMM frontrunning bots prove particularly effective in DEXs with limited liquidity, as substantial trades can significantly impact the market, leading to exploitable price changes.
 
 ### Features
-- **Multiple networks**: The bot can iteract with Uniswap-V3, SushiSwap, PancackeSwap and TraderJoe. Supported ETHEREUM, POLYGON, ARBITRUM, AVALANCHE and BINANCE networks
+- **Multiple networks**: The bot can iteract with Uniswap-like AMMs on chains ETHEREUM, POLYGON, ARBITRUM, AVALANCHE, BINANCE and PULSECHAIN networks (Uniswap-v3, Pancacke, Pulsex-v2)
 - **Mempool Monitoring**: The bot continuously monitors the mempool of the network, providing up-to-date information on pending transactions.
 - **Transaction Analysis**: The bot analyzes pending transactions in the mempool, providing insights into transaction fees, gas prices, and other relevant metrics.
 - **Profit transaction**: The bot performs transactions for most relevant pairs with low liquidity.
@@ -39,8 +39,8 @@
 - RPCs for each network (ex. Infura)
 
 ### Public version
-- Supported networks: BSC
-- Active contracts: 3
+- Supported networks: BSC ARB PULSE
+- Active contracts: 5
 - Notifications: no
 
 Actual free version in release section.
